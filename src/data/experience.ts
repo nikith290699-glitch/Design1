@@ -32,7 +32,7 @@ export const experienceData = {
   // - responsibilities: List of your main duties and achievements
   experience: [
     {
-      role: "UI/UX Developer",
+      role: "Senior UI/UX Developer",
       company: "Bank Of America",
       location: "Remote",
       duration: "Jan 2024 - Present",
