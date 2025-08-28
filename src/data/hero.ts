@@ -1,4 +1,4 @@
-/**
+g/**
  * HERO SECTION DATA
  * ================
  * This file contains all the information that appears in the Hero section of your portfolio.
@@ -32,7 +32,7 @@ export const heroData = {
 
   // Your professional role or title
   // This is typically your current job title or primary role
-  role: "UI/UX Developer",
+  role: "UI/UX DESIGNER ",
 
   // A brief description about yourself
   // Keep this concise but engaging
