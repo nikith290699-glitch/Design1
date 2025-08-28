@@ -32,7 +32,7 @@ export const heroData = {
 
   // Your professional role or title
   // This is typically your current job title or primary role
-  role: "UI/UX DESIGNER ",
+  role: "UI/UX DESIGNER",
 
   // A brief description about yourself
   // Keep this concise but engaging
