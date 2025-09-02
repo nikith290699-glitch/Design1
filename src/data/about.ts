@@ -52,6 +52,9 @@ export const aboutData = {
       "Completed various online certifications in web development and cloud technologies",
       "Regular participant in coding challenges and hackathons",
       "Active contributor to open-source projects"
+      "Reduced customer support tickets by 25% with UI improvements at BCBS"
+      "Delivered cross-browser compatible dashboards for Cummins enterprise users, improving task completion speed by 20%"
+      "Streamlined AT&T’s customer web UI, increasing mobile engagement by 18%"
     ]
   },
 
