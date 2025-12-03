@@ -32,7 +32,7 @@ export const experienceData = {
   // - responsibilities: List of your main duties and achievements
   experience: [
     {
-      role: "Senior UI/UX Developer",
+      role: "Senior UI/UX Developer&Designer",
       company: "Bank Of America",
       location: "Remote",
       duration: "Jan 2024 - Present",
@@ -45,7 +45,7 @@ export const experienceData = {
       ]
     },
     {
-      role: "Frontend Developer",
+      role: "Frontend Developer&Designer",
       company: "Cummins",
       location: "Hybrid",
       duration: "Jul 2022-Jan 2024",
@@ -58,7 +58,7 @@ export const experienceData = {
       ]
     },
     {
-      role: "UI/UX Developer",
+      role: "UI/UX Developer&Designer",
       company: "Blue Cross Blue Shield",
       location: "Remote",
       duration: "Feb 2021-Jul 2022",
@@ -71,7 +71,7 @@ export const experienceData = {
       ]
     },
     {
-      role: "Frontend UI Developer",
+      role: "Frontend UI Developer&Designer",
       company: "AT&T",
       location: "Hybrid",
       duration: "Dec 2018-Feb 2021",
@@ -84,7 +84,7 @@ export const experienceData = {
         ]
     },
     {
-      role: "Junior UI Developer",
+      role: "Junior UI Developer&Designer",
       company: "Wipro",
       location: "Onsite",
       duration: "Jun 2016-Sep 2018",
