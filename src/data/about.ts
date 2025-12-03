@@ -22,7 +22,7 @@ export const aboutData = {
   introduction: {
     // Add or remove paragraphs as needed
     paragraphs: [
-      "I’m a seasoned UI/UX Developer&Designer with over 9 years of experience designing and developing responsive, accessible, and scalable web interfaces. With a solid background in frontend technologies like HTML5, CSS3, JavaScript, ReactJS, AngularJS, and TypeScript, I specialize in building user-centric applications for banking, healthcare, and telecom industries.",
+      "I’m a seasoned UI/UX Developer & Designer with over 9 years of experience designing and developing responsive, accessible, and scalable web interfaces. With a solid background in frontend technologies like HTML5, CSS3, JavaScript, ReactJS, AngularJS, and TypeScript, I specialize in building user-centric applications for banking, healthcare, and telecom industries.",
       "My development approach blends technical precision with design thinking—ensuring every interface is not just visually polished but also WCAG-compliant, performance-optimized, and maintainable. I’ve led key UI transformations for enterprise platforms at Bank of America, Cummins, BCBS, and AT&T, integrating real-time data with secure REST APIs and collaborating across Agile teams.",
       "Driven by a passion for seamless user experiences and scalable architectures, I continuously evolve my skillset to align with modern web standards and accessibility guidelines. Whether modernizing legacy UIs or developing greenfield projects, I bring a balance of engineering rigor, design collaboration, and user-first thinking to every project I take on."
     ],
