@@ -1,4 +1,4 @@
-V/**
+/**
  * HERO SECTION DATA
  * ================
  * This file contains all the information that appears in the Hero section of your portfolio.
