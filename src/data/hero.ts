@@ -37,14 +37,4 @@ export const heroData = {
   // A brief description about yourself
   // Keep this concise but engaging
   description: "I'm a problem-solver by day, code-slinger by night. Enjoy exploring my projects!🚀✨.",
-
-  // Call-to-Action (CTA) buttons
-  // These are the main buttons in your hero section
-  cta: {
-    // Primary CTA - usually the main action you want visitors to take
-    primary: {
-      text: "Check out my projects", // Button text
-      link: "#projects" // Link to projects section (using # for same-page navigation)
-    },
-  }
 }; 
