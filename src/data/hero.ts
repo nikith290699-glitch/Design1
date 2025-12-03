@@ -48,7 +48,7 @@ export const heroData = {
     // Secondary CTA - usually a supporting action
     secondary: {
       text: "Download Resume", // Button text
-      link: "https://docs.google.com/document/d/1tK90mcSDkPn76ivYgHqZs10m34MKvE7w/edit?usp=drive_link&ouid=112370990940083133449&rtpof=true&sd=true" // Link to your resume (can be a URL or file path)
+      link: "https://docs.google.com/document/d/1tK90mgHqZs10m34MKvE7w/edit?usp=drive_link&ouid=112370990940083133449&rtpof=true&sd=true" // Link to your resume (can be a URL or file path)
     }
   }
 
